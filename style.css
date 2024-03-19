@@ -105,7 +105,7 @@ body {
 }
 
 .hero .hero-image {
-  background-image: url("../5/Images/bg.jpg");
+  background-image: url("bg.jpg");
   background-size: cover;
   background-position-x: 570px;
   border: 2px solid lightgray;
